@@ -6,7 +6,7 @@ Currently focused on growing **Datagrove** and delivering high quality engineeri
 
 ## 🚀 About me
 
-I hold an MSc in Information Studies with a specialization in Data Science from the University of Amsterdam. My thesis on machine learning for churn prediction in e commerce was published academically.
+I hold an MSc in Information Studies with a specialization in Data Science from the University of Amsterdam. My thesis on machine learning for churn prediction in e-commerce was published academically.
 
 I have been working with Python for over 6 years and specialize in data engineering analytics engineering and full stack development. I enjoy building systems that sit at the intersection of technology and business impact.
 
