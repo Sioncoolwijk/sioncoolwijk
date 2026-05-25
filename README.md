@@ -14,12 +14,12 @@ Website: https://datagrove.nl
 - Cloud native data platforms on Google Cloud
 - Production ready pipelines and transformations
 - Full stack web development
-- Modern websites that are fast SEO ready and easy to maintain
+- Modern websites that are fast, SEO-ready, and easy to maintain
 - Custom platforms and SaaS with authentication payments and dashboards
 - Mobile app development for iOS and Android from one codebase
 - AI and ML integration in real world systems
 - AI assistants agents and automations embedded in production products
-- RAG pipelines vector stores and LLM orchestration
+- RAG pipelines, vector stores, and LLM orchestration
 - Edge and serverless architectures on Cloudflare
 
 ## 🛠 Tech stack
@@ -49,7 +49,6 @@ Website: https://datagrove.nl
 - Building modern web applications  
 - Shipping mobile apps for iOS and Android  
 - Developing internal tools and platforms  
-- AI opportunity discovery and workshops  
 
 ## 📫 Contact
 Email: info@datagrove.nl
